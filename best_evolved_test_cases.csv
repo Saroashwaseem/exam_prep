@@ -1,0 +1,11 @@
+test_case,fitness,month_type,day_category,year_category
+31/01/5393,16.0,31-day month,Last day of 31-day month,Regular year
+31/05/5393,15.0,31-day month,Last day of 31-day month,Regular year
+30/09/5170,15.0,30-day month,Last day of 30-day month,Regular year
+31/05/5170,15.0,31-day month,Last day of 31-day month,Regular year
+30/09/5393,15.0,30-day month,Last day of 30-day month,Regular year
+31/05/5170,15.0,31-day month,Last day of 31-day month,Regular year
+30/09/5393,15.0,30-day month,Last day of 30-day month,Regular year
+31/05/5393,15.0,31-day month,Last day of 31-day month,Regular year
+30/09/5170,15.0,30-day month,Last day of 30-day month,Regular year
+31/01/5170,15.0,31-day month,Last day of 31-day month,Regular year

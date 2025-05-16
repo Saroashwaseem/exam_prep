@@ -1,0 +1,14 @@
+Top 5 Parents & Offspring (With Fitness Scores):
+31/05/5393 - Fitness: 15.00
+30/09/5170 - Fitness: 15.00
+31/05/5170 - Fitness: 15.00
+30/09/5393 - Fitness: 15.00
+31/01/5393 - Fitness: 16.00
+31/05/5170 - Fitness: 15.00
+30/09/5393 - Fitness: 15.00
+31/05/5393 - Fitness: 15.00
+30/09/5170 - Fitness: 15.00
+31/01/5170 - Fitness: 15.00
+
+Coverage Achieved: 97.42%
+Number of Generations Used: 5

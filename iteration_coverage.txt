@@ -1,0 +1,13 @@
+Top 10 Test Cases (With Fitness Scores):
+31/05/5393 - Fitness: 17.00
+30/09/5170 - Fitness: 16.00
+20/01/1089 - Fitness: 3.00
+01/04/2307 - Fitness: 3.00
+08/02/9823 - Fitness: 3.00
+21/08/7627 - Fitness: 3.00
+02/09/8451 - Fitness: 3.00
+27/10/6811 - Fitness: 3.00
+30/12/0895 - Fitness: 3.00
+03/06/2372 - Fitness: 3.00
+
+Coverage Achieved: 36.77%
